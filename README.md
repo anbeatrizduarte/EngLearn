@@ -1,18 +1,44 @@
-# React + Vite
+# EngLearn (Provisório)
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Projeto de um site desenvolvido para auxiliar no aprendizado de inglês de forma simples e interativa. A plataforma possui diferentes áreas para ajudar no estudo do inglês, organizadas em cards, como:
 
-Currently, two official plugins are available:
+* 📖 Vocabulário
+* 🗣️ Pronúncia
+* 🎧 Listening
+* ✍️ Gramática
+* 💡 Dicas de estudo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+O objetivo é criar uma experiência de estudo organizada, intuitiva e fácil de utilizar.
 
-## React Compiler
+## 🛠️ Tecnologias
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+* React
+* Vite
+* Tailwind CSS
+* JavaScript
 
-Note: This will impact Vite dev & build performances.
+## 🚀 Como executar
 
-## Expanding the Oxlint configuration
+Clone o repositório:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+```
+
+Entre na pasta do projeto:
+
+```bash
+cd seu-repositorio
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Execute o projeto:
+
+```bash
+npm run dev
+```
